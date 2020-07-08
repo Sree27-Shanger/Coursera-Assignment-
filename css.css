@@ -1,0 +1,206 @@
+body{
+    background-color: bisque;
+}
+@media(min-width:1200px)
+{
+    .div-lg-1, .div-lg-2, .div-lg-3, .div-lg-4, .div-lg-5, .div-lg-6, .div-lg-7, .div-lg-8, .div-lg-9, .div-lg-10, .div-lg-11, .div-lg-12{
+        float: left;
+        border: 1px sloid black;
+
+    }
+    .div-lg-1{
+        width: 8.33%;
+    }
+    .div-lg-2{
+        width: 16.66%;
+    }
+    .div-lg-3{
+        width: 25%;
+    }
+    .div-lg-4{
+        width: 33%;
+    }
+    .div-lg-5{
+        width: 41.66%;
+    }
+    .div-lg-6{
+        width: 50%;
+    }
+    .div-lg-7{
+        width: 58.33%;
+    }
+    .div-lg-8{
+        width: 66.66%;
+    }
+    .div-lg-9{
+        width: 74.99%;
+    }
+    .div-lg-10{
+        width: 83.33%;
+    }
+    .div-lg-11{
+        width: 91.6%;
+    }
+    .div-lg-12{
+        width: 100%;
+    }
+    h1{
+        text-align: center;
+        font-weight: bold;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    #Hash{
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    #Menu{
+        text-align: center;
+        font-weight: bold;
+        font-size: 2em;
+    }
+    .Chiken{
+        background-color: cadetblue;
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        border: 3px solid black;
+        padding: 0px;
+        margin-left: 3em;
+    }
+    #Chiken{
+        font-size: 1.1em;
+        border: 1.7px solid black;
+    }
+    .Porotta{
+        background-color: darkkhaki;
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        border: 3px solid black;
+        padding: 0px;
+        margin-left: 3em;
+    }
+    #Porotta{
+        font-size: 1.1em;
+        border: 1.7px solid black;
+    }
+    .Beaf{
+        background-color: aquamarine;
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        border: 3px solid black;
+        padding: 0px;
+        margin-left: 3em;
+
+    }
+    #Beaf{
+        font-size: 1.1em;
+        border: 1.7px solid black;
+
+    }
+
+}
+@media(min-width:359px) and (max-width:1199px)
+{
+    div-md-1, .div-lmd-2, .div-md-3, .div-md-4, .div-md-5, .div-md-6, .div-md-7, .div-md-8, .div-md-9, .div-md-10, .div-md-11, .div-md-12{
+        float: left;
+        border: 1px sloid black;
+
+    }
+    .div-md-1{
+        width: 8.33%;
+    }
+    .div-md-2{
+        width: 16.66%;
+    }
+    .div-md-3{
+        width: 25%;
+    }
+    .div-md-4{
+        width: 33%;
+    }
+    .div-md-5{
+        width: 41.66%;
+    }
+    .div-md-6{
+        width: 50%;
+    }
+    .div-md-7{
+        width: 58.33%;
+    }
+    .div-md-8{
+        width: 66.66%;
+    }
+    .div-md-9{
+        width: 74.99%;
+    }
+    .div-md-10{
+        width: 83.33%;
+    }
+    .div-md-11{
+        width: 91.6%;
+    }
+    .div-md-12{
+        width: 100%;
+    }
+    h1{
+        text-align: center;
+        font-weight: bold;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    #Hash{
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    #Menu{
+        text-align: center;
+        font-weight: bold;
+        font-size: 2em;
+    }
+    .Chiken{
+        background-color: cadetblue;
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        border: 3px solid black;
+        padding: 0px;
+        margin-left: 10em;
+    }
+    #Chiken{
+        font-size: 1.1em;
+        border: 1.7px solid black;
+    }
+    .Porotta{
+        background-color: darkkhaki;
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        border: 3px solid black;
+        padding: 0px;
+        margin-left: 10em;
+        margin-top: 3em;
+    }
+    #Porotta{
+        font-size: 1.1em;
+        border: 1.7px solid black;
+    }
+    .Beaf{
+        background-color: aquamarine;
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        border: 3px solid black;
+        padding: 0px;
+        margin-left: 10em;
+        margin-top: 3em;
+
+    }
+    #Beaf{
+        font-size: 1.1em;
+        border: 1.7px solid black;
+
+    }
+
+
+}
